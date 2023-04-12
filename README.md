@@ -8,8 +8,6 @@
 ## Frontend Repository Link : [Click here](https://github.com/TakeTalk/potato-frontend)
 ## Chcek out the .APK File of the Android Application : [Click here](https://drive.google.com/drive/folders/1geM-8F7syNjUUHjNwwDO6axypwL_EMJO?usp=share_link)
 
-<br>
-
 
 ## Description of Project :
 >The Project is based on **Disease Detection of a Potato Plant** using a Machine Learning Model. There are 2 very prevalent diseases among Potato Plants, one **Late Blight** and the other one being **Early Blight**.  They are caused by different types of fungi that can affect the plants at different stages of their growth.
